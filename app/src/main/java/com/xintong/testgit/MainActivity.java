@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     //冲突了哈哈哈2
     //冲突了哈哈哈2
     //2222dsadsad
-    //2222
+    //22
     //gfdgfd
 
 
@@ -22,6 +22,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //33333
+        //333222222222
     }
 }
